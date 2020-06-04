@@ -49,7 +49,7 @@
     "reference": {
       "lvl0": ".contents h1",
       "lvl1": {
-        "selector": ".contents .name",
+        "selector": ".contents .usage .fu",
         "default_value": "Argument"
       },
       "lvl2": {
